@@ -55,40 +55,29 @@ Beyond academics, I actively take leadership responsibilities and contribute to 
 
 <p align="left">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/dsdipu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/dsdipu" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/dsdipu0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+<a href="https://www.facebook.com/dsdipu0" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
 
-  <!-- Instagram (Fixed) -->
-  <a href="https://www.instagram.com/dsdipu0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+<a href="https://www.instagram.com/dsdipu0" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 
-  <!-- Gmail -->
-  <a href="mailto:mr.sarkar9979@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+<a href="mailto:mr.sarkar9979@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-  <!-- GitHub (White version for visibility) -->
-  <a href="https://github.com/dsdipu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30" height="30"/>
-  </a>
-  &nbsp;&nbsp;
+<a href="https://github.com/dsdipu" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <!-- Codeforces (Colored Version) -->
-  <a href="https://codeforces.com/profile/dipu37" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="30" height="30" style="fill:#1F8ACB;"/>
-  </a>
+<a href="https://codeforces.com/profile/dipu37" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
+</a>
 
 </p>
 
