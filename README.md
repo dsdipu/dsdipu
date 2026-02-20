@@ -54,40 +54,42 @@ Beyond academics, I actively take leadership responsibilities and contribute to 
 ## Connect With Me
 
 <p align="left">
+
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/dsdipu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- Facebook -->
   <a href="https://www.facebook.com/dsdipu0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
 
-  <!-- Instagram -->
+  <!-- Instagram (Fixed) -->
   <a href="https://www.instagram.com/dsdipu0" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/instagram-original.svg" alt="Instagram" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
 
   <!-- Gmail -->
   <a href="mailto:mr.sarkar9979@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
 
-  <!-- GitHub -->
+  <!-- GitHub (White version for visibility) -->
   <a href="https://github.com/dsdipu" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="30" height="30"/>
   </a>
   &nbsp;&nbsp;
 
-  <!-- Codeforces -->
+  <!-- Codeforces (Colored Version) -->
   <a href="https://codeforces.com/profile/dipu37" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" alt="Codeforces" width="28" height="28"/>
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" width="30" height="30" style="fill:#1F8ACB;"/>
   </a>
+
 </p>
 
 ---
