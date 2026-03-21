@@ -31,14 +31,15 @@ Beyond academics, I actively take leadership responsibilities and contribute to 
 
 - **Bangla Bhojon** — Java-based desktop restaurant management system  
 - **Portfolio Website** — Personal developer portfolio  
-- **Khuda Lagche** — Web-based food ordering concept  
+- **Khuda Lagche** — Web-based food showcase 
+- **Silent Struggles** — For mental health awareness
 
 ---
 
 ## Technical Skills
 
 **Languages:** C, C++, Java, Python, SQL  
-**Web:** HTML, CSS  
+**Web:** HTML, CSS, TailwindCSS
 **Tools:** Git, GitHub  
 
 ---
