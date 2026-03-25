@@ -1,87 +1,22 @@
-# Dipankar Sarkar
+# 💫 About Me:
+## Dipankar Sarkar
+Software Engineering Student**<br><br>📚 Strong in DSA & OOP  <br>🤝 Leadership & Team Coordination  <br>💡 Building practical solutions through structured learning
 
-Software Engineering Student | DSA • OOP • Leadership
 
----
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/dsdipu0) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dsdipu0) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dsdipu) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Dipu037) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mr.sarkar9979@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=dsdipu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=dsdipu&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dsdipu&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I am a Software Engineering undergraduate focused on building strong fundamentals in data structures, object-oriented design, and structured problem solving.
-
-Beyond academics, I actively take leadership responsibilities and contribute to collaborative technical environments. I aim to grow as a well-rounded software engineer through consistent learning and practical implementation.
-
----
-
-## Core Strengths
-
-- Data Structures & Algorithms  
-- Object-Oriented Programming  
-- Leadership & Team Coordination  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dsdipu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dsdipu&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## Achievements
-
-- 2nd Runner Up — IDPC Logic Battle  
-- Solved 174+ problems across online judges  
-
----
-
-## Selected Projects
-
-- **Bangla Bhojon** — Java-based desktop restaurant management system  
-- **Portfolio Website** — Personal developer portfolio  
-- **Khuda Lagche** — Web-based food showcase 
-- **Silent Struggles** — For mental health awareness
-
----
-
-## Technical Skills
-
-**Languages:** C, C++, Java, Python, SQL  
-**Web:** HTML, CSS, TailwindCSS
-**Tools:** Git, GitHub  
-
----
-
-## Current Focus
-
-- Strengthening software design fundamentals  
-- Writing clean and maintainable code  
-- Expanding practical development experience  
-
----
-
-## Connect With Me
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/dsdipu" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/dsdipu0" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/dsdipu0" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:mr.sarkar9979@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/dsdipu" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://codeforces.com/profile/dipu37" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"/>
-</a>
-
-</p>
-
----
-
-Feel free to explore my repositories and connect for collaboration.
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
