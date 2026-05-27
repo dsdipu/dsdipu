@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dipankar Sarkar<br>Software Engineering Student**<br><br>📚 Strong in DSA & OOP<br>🤝 Leadership & Team Coordination<br>💡 Building practical solutions through structured learning
+Dipankar Sarkar<br>Software Engineering Student<br><br>📚 Strong in DSA & OOP<br>🤝 Leadership & Team Coordination<br>💡 Building practical solutions through structured learning
 
 
 ## 🌐 Socials:
